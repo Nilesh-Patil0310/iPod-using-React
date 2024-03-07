@@ -5,6 +5,8 @@ import { FaPause } from "react-icons/fa6";
 import { FaPlay } from "react-icons/fa6";
 import { FaBackward } from "react-icons/fa6";
 import "../css/wheel.css"
+
+// componet for wheel including various fucnctionalities
 class Wheel extends Component {
   render() {
     return (
